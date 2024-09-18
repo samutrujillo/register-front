@@ -1,4 +1,4 @@
-/* Estilos base del formulario */
+
 .form {
   max-width: 600px;
   margin: 0 auto;
@@ -54,7 +54,7 @@
   color: #fffbfb;
 }
 
-/* Estilos de los campos de texto */
+
 .formControl {
   background-color: #f9f9f9;
   border: 2px solid #ddd;
@@ -69,7 +69,7 @@
   box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
 }
 
-/* Estilo del botón */
+
 .submitBtn {
   background-color: #ba35e2;
   color: white;
@@ -89,7 +89,7 @@
   transform: scale(1.05);
 }
 
-/* Estilos para checkbox */
+
 .habeasData {
   margin-top: 20px;
   display: flex;
@@ -102,7 +102,7 @@
   color: #ba35e2;
 }
 
-/* Efecto de foco para todos los campos */
+
 .formControl:hover {
   border-color: #aaa;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);

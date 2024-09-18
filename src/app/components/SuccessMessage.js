@@ -1,4 +1,3 @@
-// app/components/SuccessMessage.js
 import { Alert } from 'react-bootstrap';
 import styles from '../styles/SuccessMessage.module.css';
 

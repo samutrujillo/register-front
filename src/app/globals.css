@@ -1,9 +1,9 @@
 body {
-  background-image: url('./public/img-fondo.jpg'); /* Ajusta el path a la imagen */
-  background-size: cover; /* Escala la imagen para cubrir toda la pantalla */
-  background-position: center; /* Centra la imagen en la pantalla */
-  background-repeat: no-repeat; /* Evita que la imagen se repita */
-  background-attachment: fixed; /* Mantiene la imagen fija al hacer scroll */
+  background-image: url('./public/img-fondo.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
 }
 
 @media (max-width: 768px) {
