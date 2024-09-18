@@ -2,4 +2,5 @@
 
 First, run the development server:
 
-Open (https://register-front-ten.vercel.app/) with your browser to see the result.
+Open (https://register-front-ten.vercel.app/) with your browser to see the result. or
+Open (http://localhost:3000/) with your browser to see the result.
